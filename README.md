@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Mudit
+I am Mudit<br/>
+@fixingSegmentation is my account for CS308 course.
 
 <!--
 **mudit481/mudit481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
