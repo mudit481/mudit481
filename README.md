@@ -1,7 +1,5 @@
 ### Hi there 👋
 I am Mudit<br/>
-Find my alternate GitHub handle:<br/>
-github.com/fixingSegmentation
 
 <!--
 **mudit481/mudit481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
